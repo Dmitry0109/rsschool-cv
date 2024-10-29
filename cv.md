@@ -35,3 +35,24 @@ I want to gain knowledge and skills that will allow me to become a Fron-end deve
 5. JavaSkript
 
 ---
+
+## Example code:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <p> Тут должен быть текс </p>
+</body>
+</html>
+```
+
+## Languages:
+
+- Russian - Native
+- English - A1
